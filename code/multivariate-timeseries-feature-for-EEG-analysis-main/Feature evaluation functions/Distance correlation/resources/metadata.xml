@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>e59569fe-4a80-11e4-9553-005056977bd0</identifier>
+  <displayType>Function</displayType>
+  <translatedDisplayType>
+    <en_US>Function</en_US>
+    <es_ES>Function</es_ES>
+    <es_MX>Function</es_MX>
+    <ja_JP>関数</ja_JP>
+    <ko_KR>함수</ko_KR>
+    <zh_CN>函数</zh_CN>
+  </translatedDisplayType>
+  <name>Distance correlation</name>
+  <author>Shen Liu</author>
+  <version>1.0.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/39905/versions/1/download/zip?src=addons_ml_desktop_install&amp;profile_id=22703516&amp;license=600177&amp;release_family=R2023a</downloadUrl>
+  <licenseUrl>https://addons.mathworks.com/registry/v1/e59569fe-4a80-11e4-9553-005056977bd0/1.0.0.0/-/license</licenseUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <releaseNotesUrl>https://www.mathworks.com/add-ons/e59569fe-4a80-11e4-9553-005056977bd0/ed2224fd-1d95-ca6f-6546-b1d7750ad106/releaseNotes</releaseNotesUrl>
+  <installationFolder>Functions</installationFolder>
+</addOn>
